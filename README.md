@@ -1,7 +1,7 @@
 # M4UF1A2_DocumentarConMarkDown_SergioCallejas
 
 
-#### Evaluación inicial
+## Evaluación inicial
 
 1. ¿Qué es una página web?
 
@@ -56,4 +56,5 @@ elementos HTML deberían ser mostrados.
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-![SoporteActividad-DocumentarconMarkdown](https://user-images.githubusercontent.com/113420594/191227561-e6d7e9a2-e776-446e-981a-f40cdf79b915.png)
+![git ](https://user-images.githubusercontent.com/113420594/191228054-dbc7a364-244d-4aed-8266-bca402bcad15.png)
+
