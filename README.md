@@ -1,5 +1,5 @@
 # M4UF1A2_DocumentarConMarkDown_SergioCallejas
-Actividad 2 Lenguaje de Marcas 
+
 
 ### Evaluación inicial
 
@@ -35,6 +35,7 @@ presentación
 
 Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,3 +47,5 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 <body>
 </body>
 </html>
+```
+
