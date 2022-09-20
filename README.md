@@ -1,7 +1,7 @@
 # M4UF1A2_DocumentarConMarkDown_SergioCallejas
 
 
-### Evaluación inicial
+#### Evaluación inicial
 
 1. ¿Qué es una página web?
 
@@ -49,3 +49,11 @@ Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 </html>
 ```
 
+7. ¿Qué es CSS ?
+
+CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los
+elementos HTML deberían ser mostrados.
+
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![SoporteActividad-DocumentarconMarkdown](https://user-images.githubusercontent.com/113420594/191227561-e6d7e9a2-e776-446e-981a-f40cdf79b915.png)
